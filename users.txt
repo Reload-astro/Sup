@@ -1,0 +1,10 @@
+[
+    {
+        "Username": "user1",
+        "HashedPassword": "6c0ed8e5d0a6f98151a8bc999f88595e491dd612..."
+    },
+    {
+        "Username": "user2",
+        "HashedPassword": "fc170ad5d4bf8ab24a25ddce484d8f1c89a0b7af..."
+    }
+]
