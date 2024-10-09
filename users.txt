@@ -1,10 +1,6 @@
 [
     {
-        "Username": "user1",
-        "HashedPassword": "6c0ed8e5d0a6f98151a8bc999f88595e491dd612..."
-    },
-    {
-        "Username": "user2",
-        "HashedPassword": "fc170ad5d4bf8ab24a25ddce484d8f1c89a0b7af..."
+        "Username": "Reload",
+        "HashedPassword": "b8dff1b715e803e07df34fa37cc62d130b8b3e617cd41f4df52a93b7405bd6f5"
     }
 ]
